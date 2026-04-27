@@ -4,3 +4,5 @@ ADD STUDENTS LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/b
 
 DISPLAY STUDENT LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062028.png
 
+DELETE STUDENT LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062051.png
+
