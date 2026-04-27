@@ -6,3 +6,5 @@ DISPLAY STUDENT LINK : https://github.com/kavitakirikiri0-coder/java-mini-projec
 
 DELETE STUDENT LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062051.png
 
+DELETE DISPLAY LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062113.png
+
