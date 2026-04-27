@@ -12,3 +12,5 @@ UPDATE LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/ma
 
 UPDATE DISPLAY LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062148.png
 
+REPORT LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062223.png
+
