@@ -8,3 +8,5 @@ DELETE STUDENT LINK : https://github.com/kavitakirikiri0-coder/java-mini-project
 
 DELETE DISPLAY LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062113.png
 
+UPDATE LINK : https://github.com/kavitakirikiri0-coder/java-mini-project/blob/master/Screenshot%202026-04-27%20062131.png
+
